@@ -8,6 +8,26 @@
       "expo-router"
     ],
     "name": "react_native_jobs",
-    "slug": "react_native_jobs"
+    "slug": "react_native_jobs",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "ac8fe2b2-bc2f-4eb0-b9a3-6165cfc6fc4e"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/ac8fe2b2-bc2f-4eb0-b9a3-6165cfc6fc4e"
+    },
+    "android": {
+      "package": "com.avibimsara.react_native_jobs"
+    },
+    "ios": {
+      "bundleIdentifier": "io.jobs.expo.client"
+    }
   }
 }
